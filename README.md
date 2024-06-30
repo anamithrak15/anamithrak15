@@ -1,5 +1,5 @@
 ## Hey 🙋‍♀️
-Hey! Anamithra here. I'm a highly motivated and dedicated pre-final year student majoring in Computer Science and Engineering at IIIT Vadodara International Campus Diu.
+Anamithra here. I'm a highly motivated and dedicated pre-final year student majoring in Computer Science and Engineering at IIIT Vadodara International Campus Diu.
 
 <!--
 **anamithrak15/anamithrak15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
