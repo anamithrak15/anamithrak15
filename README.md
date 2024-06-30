@@ -3,7 +3,7 @@ Anamithra here. I'm a highly motivated and dedicated pre-final year student majo
 
 # Tech Stack I use:
 <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<i class="devicon-css3-plain"></i>
+<i style="background-color: white " class="devicon-css3-plain"></i>
           
           
   
