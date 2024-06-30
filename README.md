@@ -1,6 +1,11 @@
 ## Hey 🙋‍♀️
 Anamithra here. I'm a highly motivated and dedicated pre-final year student majoring in Computer Science and Engineering at IIIT Vadodara International Campus Diu.
 
+#Tech Stack I use:
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+          
 <!--
 **anamithrak15/anamithrak15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
