@@ -7,9 +7,9 @@ Anamithra here. I'm a highly motivated and dedicated pre-final year student majo
 ## Socials 🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anamithra-k-853b69232) 
 ## GitHub Stats 📊:
-![](https://github-readme-stats.vercel.app/api?username=anamithrak15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anamithrak15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anamithrak15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+   ![](https://github-readme-stats.vercel.app/api?username=anamithrak15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=anamithrak15&theme=dark&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/username=anamithrak15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## GitHub Trophies 🏆:
 ![](https://github-profile-trophy.vercel.app/?username=anamithrak15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
